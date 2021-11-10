@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: Epsilon Forge NPC List
+## Author: Rick#0001
+## Notes: Adds a working NPC list to the NPC forge
+## Version: 1.0
+## X-Website: https://epsilonwow.net/
+## Dependencies: Epsilon, Epsilon_Phases, epsilon_forge
+
+Epsilon_Forge_List.lua
