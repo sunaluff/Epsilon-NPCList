@@ -5,5 +5,5 @@
 ## Version: 1.0
 ## X-Website: https://epsilonwow.net/
 ## Dependencies: Epsilon, Epsilon_Phases, epsilon_forge
-
+## SavedVariables: IgnoreNPCDeleteWarning
 Epsilon_Forge_List.lua
